@@ -1,1 +1,1 @@
-# demo
+# Git Mastery Course
